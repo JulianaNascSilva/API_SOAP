@@ -1,0 +1,13 @@
+{
+  "cookies" : [],
+  "headers" : [],
+  "body" : {
+    "form" : [],
+    "uri" : "http://local.sgit.dsin.com.br:8001/service.php?f=delete&cpf=1234567888",
+    "method" : 1,
+    "validate_x509" : true,
+    "data_type" : "BODY_TYPE_FORMDATA",
+    "raw_language" : 0,
+    "raw" : ""
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "1": {
+    "nome": "Josue Cleyton",
+    "curso": "Ciencia da Computacao",
+    "semestre": 1,
+    "ra": 1234500,
+    "cpf": 1234567888,
+    "cidade": "Marilia"
+  },
+  "2": {
+    "nome": "Janaina Ferreira",
+    "curso": "Ciencia da Computacao",
+    "semestre": 1,
+    "ra": 111111,
+    "cpf": 48900606859,
+    "cidade": "Marilia"
+  }
+}
